@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40bbe2dcc379ee5091fb1c84e401314c" label="Laptop Inventory" max_length="40" name="x_1762197_reques_0_laptop_inventory" type="collection">
+        <element label="Laptop Model" max_length="32" name="laptop_model" reference="x_1762197_reques_0_laptop_model" type="reference"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="Laptop Number" max_length="40" name="laptop_number" type="string" use_dynamic_default="true"/>
+        <element label="Laptop Asignee" max_length="32" name="laptop_asignee" reference="sys_user" type="reference"/>
+        <element choice="3" label="Laptop Status" max_length="40" name="laptop_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="1" value="unavailable"/>
+                <element inactive_on_update="false" label="Assigned" sequence="2" value="assigned"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="laptop_asignee"/>
+        </index>
+        <index name="index2">
+            <element name="laptop_model"/>
+        </index>
+    </element>
+</database>

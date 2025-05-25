@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>AES</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>b36b2a98c379ee5091fb1c84e40131e8</logo>
+        <menu/>
+        <name>Request Laptop</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1762197_reques_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Track process of request laptop</short_description>
+        <source>x_1762197_reques_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 03:47:20</sys_created_on>
+        <sys_id>db6b6e9cc379ee5091fb1c84e401310f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 03:47:22</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=db6b6e9cc379ee5091fb1c84e401310f"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>laptop (1) 1.png</file_name>
+        <hash>94ddf82cca34c25a0e57c08bc1dcb56a40ff30879542470049cc1fc784b35378</hash>
+        <image_height>158</image_height>
+        <image_width>158</image_width>
+        <size_bytes>946</size_bytes>
+        <size_compressed>787</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 03:47:22</sys_created_on>
+        <sys_id>b36b2a98c379ee5091fb1c84e40131e8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 03:47:22</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>db6b6e9cc379ee5091fb1c84e401310f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="laptop (1) 1.png" sys_id="b36b2a98c379ee5091fb1c84e40131e8">b36b2a98c379ee5091fb1c84e40131e8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 03:47:22</sys_created_on>
+        <sys_id>f36b2a98c379ee5091fb1c84e40131e8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLS80CYgw1IHm7dXA2kOAs8IosZGLiFQZiRYdYcCaAgY3GQuxPDunMyL4EclnRHX0cGho393H8SWRkYmN09XRxDKhjf3nbMi3aVOPAxv0cwVdyvoV8gT8CPYY5CXuLBvrCcgOYW5akrdrdxixQzPWBpFX4gDYSpmU3thVdFud+E5X86+u799k5l11OP/n4+u6eyUpABHRzw87qz4Ob00k/fQ2WmS7kfXGsodbSoRvb0zT06j9tK+PPN1rrru30M7X57+dvbwoLZutmdn7uXp8rNLeV9f1v/ledf9bocefWDdpHXpObHnjmtZCXpqp4+//plsbubBe7azZoiVD/n7trlFz2nd16fdv1kaKd9897ravfdbdXigSKLqsVkWsx+1vXxsfG/f7jXivf0a8WZe3Yta5ay2VP2/VZuvEOf3PWSC7b3nr1Yoru5npX9+V0p+S3F+0J5Ui50ltuW+ZWviOPZUyvl3ud6e8s/qSXZ5WvnH+Fj/53rxPtri6b6HqFud//TOh7Xz71Sm/jBZeVtRqM/8g8nOlUsEZDTbHHnGjpMCfc2qcnt31+ZnAh/fNjDIKPi8euI2Klz674suWLBeS/KWX/r6QcKWzm3djDySt3LiQt7ezr/4MLIPbu2NUv+ebZoyg9bC42tx/gNNxw8LL3+8abcz2x/XytcLbqbKCpts2e68s5jdx8obMks/1cRN81wg97ziv5nT6eXXa+Se7P1rOmeGdMrSzbcfnhc2mr2td+557/H9lpwfTuWtnrLzJL750+nllwy3dObv6z0k19n5O8KqTtZsx/cqnu3vLT3tNzp1/V118/O8H19sfRI4ey646kpTPfUSmVXix1KuvPwBgs4+cWd9vPXm3dnvfvr7488D4gt/v74YPPNb8vld+8tLlxu+2iVIe+NZz9P//e6JTXvurSnok0QR7/IIeXWDx4w5tE89hPnk7fuE5Znz/n49fE+fU5GpMTN+1NcR3ueFv8B6Y8gvqern8s6p4QmABnLtFGyAwAA</data>
+        <length>1036</length>
+        <position>1</position>
+        <sys_attachment display_value="laptop (1) 1.png" sys_id="b36b2a98c379ee5091fb1c84e40131e8">b36b2a98c379ee5091fb1c84e40131e8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 03:47:22</sys_created_on>
+        <sys_id>776b2a98c379ee5091fb1c84e40131e8</sys_id>
+    </sys_attachment_doc>
+</record_update>

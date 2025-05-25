@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Approval For Requesting Laptop ">e55de650c3b9ee5091fb1c84e401311b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 04:11:28</sys_created_on>
+        <sys_id>81f032d4c3b9ee5091fb1c84e4013196</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval For Requesting Laptop .AES Users</sys_name>
+        <sys_package display_value="Request Laptop" source="x_1762197_reques_0">db6b6e9cc379ee5091fb1c84e401310f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Request Laptop">db6b6e9cc379ee5091fb1c84e401310f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_81f032d4c3b9ee5091fb1c84e4013196</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 04:11:28</sys_updated_on>
+        <user_criteria display_value="AES Users">7d5ddb1f53412010f2e9ddeeff7b12a6</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Request Laptop">db6b6e9cc379ee5091fb1c84e401310f</application>
+        <file_path/>
+        <instance_id>eefbae111b060ad032182f8dee4bcb18</instance_id>
+        <instance_name>dev265230</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_81f032d4c3b9ee5091fb1c84e4013196</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Approval For Requesting Laptop ">e55de650c3b9ee5091fb1c84e401311b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-25 04:11:28</sys_created_on><sys_id>81f032d4c3b9ee5091fb1c84e4013196</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approval For Requesting Laptop .AES Users</sys_name><sys_package display_value="Request Laptop" source="x_1762197_reques_0">db6b6e9cc379ee5091fb1c84e401310f</sys_package><sys_policy/><sys_scope display_value="Request Laptop">db6b6e9cc379ee5091fb1c84e401310f</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_81f032d4c3b9ee5091fb1c84e4013196</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-25 04:11:28</sys_updated_on><user_criteria display_value="AES Users">7d5ddb1f53412010f2e9ddeeff7b12a6</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-106298054</payload_hash>
+        <record_name>Approval For Requesting Laptop .AES Users</record_name>
+        <reverted_from/>
+        <source>5f6b6e9cc379ee5091fb1c84e4013111</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 04:11:28</sys_created_on>
+        <sys_id>01f032d4c3b9ee5091fb1c84e401319b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19705a377920000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 04:11:28</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>41f032d4bab9ee5021cdd0583688a49a</update_guid>
+        <update_guid_history>41f032d4bab9ee5021cdd0583688a49a:-106298054</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Approval For Requesting Laptop .AES Users">2af072d4c3b9ee5091fb1c84e4013191</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-25 04:11:35</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>0b78ee6744a849b88efd8f5474b17884</sys_id>
+        <sys_metadata>81f032d4c3b9ee5091fb1c84e4013196</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approval For Requesting Laptop .AES Users</sys_name>
+        <sys_package display_value="Request Laptop" source="x_1762197_reques_0">db6b6e9cc379ee5091fb1c84e401310f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Request Laptop">db6b6e9cc379ee5091fb1c84e401310f</sys_scope>
+        <sys_scope_delete display_value="">107d2942b88f407cabf4a92ba25b4984</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_81f032d4c3b9ee5091fb1c84e4013196</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_81f032d4c3b9ee5091fb1c84e4013196">01f032d4c3b9ee5091fb1c84e401319b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-25 04:11:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="laptop_asignee" label="Laptop Asignee" language="en" table="x_1762197_reques_0_laptop_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>laptop_asignee</element>
+            <help/>
+            <hint/>
+            <label>Laptop Asignee</label>
+            <language>en</language>
+            <name>x_1762197_reques_0_laptop_inventory</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-25 03:53:27</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Laptop Asignee</sys_name>
+            <sys_package display_value="Request Laptop" source="x_1762197_reques_0">db6b6e9cc379ee5091fb1c84e401310f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Request Laptop">db6b6e9cc379ee5091fb1c84e401310f</sys_scope>
+            <sys_update_name>sys_documentation_x_1762197_reques_0_laptop_inventory_laptop_asignee_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-25 03:53:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
